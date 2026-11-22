@@ -20,7 +20,7 @@ Set your goal, choose the number of stages, and let Auto Continue monitor progre
 
 1. Download the ZIP from [Releases](../../releases/latest) and extract it.
 2. In Chrome, open `chrome://extensions`; in Edge, open `edge://extensions`.
-3. Enable Developer mode, select **Load unpacked**, and choose the extracted `AUTO_CONTINUE_CHROME_EXTENSION` folder containing `manifest.json`.
+3. Enable Developer mode, select **Load unpacked**, and choose the extracted `AUTO_CONTINUE_CHROME_LANGUAGE_FIXED` folder containing `manifest.json`.
 
 ## 🤖 Compatibility
 
@@ -31,3 +31,15 @@ ChatGPT is the primary supported platform. Experimental in-chat support is also 
 Auto Continue uses browser interface automation, so changes to AI websites may affect compatibility. Automated tests have passed in simulated environments, but this release has not yet been fully validated on live AI accounts. Overnight operation and automatic transfers between chats are not guaranteed.
 
 **Spend less time repeating yourself. Spend more time creating.**
+
+
+## Screenshots
+
+### ChatGPT
+![Auto Continue on ChatGPT](chatgpt.png)
+
+### Gemini
+![Auto Continue on Gemini](gemini.png)
+
+### Claude
+![Auto Continue on Claude](claude.png)
